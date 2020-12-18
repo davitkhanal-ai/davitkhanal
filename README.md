@@ -3,7 +3,7 @@
 # readme
  
 
-## Hi there 👋, I'm Davit AI  Ai!!
+## Hi there 👋, I'm Davit AI
 
 - 🌱 I’m currently learning Webdevelopment Map
 - 🥅 2021 Goals: Learn new skills of FrontEnd
@@ -17,12 +17,6 @@
 [<img align="left" alt="davitkhanal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="davitkhanal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-
-
-<br />
-<br />
-
-
 [twitter]: https://twitter.com/davit_pyrmd
 [facebook]: https://facebook.com/davitkhanal
 [linkedin]: https://linkedin.com/#
