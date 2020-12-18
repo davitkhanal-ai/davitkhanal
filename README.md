@@ -15,7 +15,6 @@
 <br />
 
 [twitter]: https://twitter.com/davit_pyrmd
-[facebook]: https://facebook.com/davitkhanal
 [linkedin]: https://linkedin.com/#
 [instagram]:https://www.instagram.com/_davitkhanal.ai/
 
