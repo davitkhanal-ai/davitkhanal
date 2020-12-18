@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# readme
- 
 
 ## Hi there 👋, I'm Davit AI
 
