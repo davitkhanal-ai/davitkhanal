@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**davitkhanal/davitkhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# readme
+ 
 
-Here are some ideas to get you started:
+## Hi there 👋, I'm Davit AI  Ai!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Webdevelopment Map
+- 🥅 2021 Goals: Learn new skills of FrontEnd
+- ⚡ Fun fact: I love to eat pizzzza
+
+
+
+### Connect with me:
+[<img align="left" alt="davitkhanal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="davitkhanal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="davitkhanal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="davitkhanal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+
+<br />
+<br />
+
+
+[twitter]: https://twitter.com/davit_pyrmd
+[facebook]: https://facebook.com/davitkhanal
+[linkedin]: https://linkedin.com/#
+[instagram]:https://www.instagram.com/_davitkhanal.ai/
+
+
